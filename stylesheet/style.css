@@ -1,0 +1,57 @@
+
+.anchor-style{
+    background-color:  #3F87F5;
+    color: white;
+    padding: 9px 25px;
+    border: none;
+}
+.anchor-style a{
+    text-decoration: none;
+}
+.button{
+    background-color: #3F87F5;
+    border: none;
+}
+.card-height{
+    height: 450px;
+    position: relative;
+}
+.margin-top{
+    margin-top: 100px;
+}
+.margin-top-card{
+    margin-top: 70px;
+}
+.margin-bottom{
+    margin-bottom: 80px;
+}
+.precious{
+    display: flex;
+    align-items: center;
+}
+.package-style{
+    list-style: none;
+}
+.package-style-header-color{
+    color:#231D4F
+}
+.card-bg{
+    background-color: #3F87F5;
+}
+.card-position{
+    position: relative;
+    bottom: 70px;
+}
+.card-badge-position{
+    position: absolute;
+    bottom: 435px;
+    left: 185px;
+}
+.footer-style{
+    height: 160px;
+    background-color: #0B0D17;
+}
+.sm-footer-height{
+    height: 190px;
+    background-color: #0B0D17;
+}
